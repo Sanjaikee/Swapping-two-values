@@ -33,7 +33,8 @@ print("Swapped values are:",x,y)
 ```
 ##OUTPUT:
 
-![SANJAI S 23003393](https://github.com/Sanjaikee/Swapping-two-values/assets/150231888/b0087114-2f03-447e-8a4e-b59f090da6cc)
+![image](https://github.com/Sanjaikee/Swapping-two-values/assets/150231888/cefcaadd-11e4-4769-9428-d09331590499)
+
 
 
 ## RESULT:
